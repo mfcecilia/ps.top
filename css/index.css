@@ -4,8 +4,10 @@ body{
     background-color: black;
     color: whitesmoke;
     text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 img {
     text-align: center;
 }
+
