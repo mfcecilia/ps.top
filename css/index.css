@@ -5,9 +5,13 @@ body{
     color: whitesmoke;
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2em;
 }
 
 img {
     text-align: center;
 }
 
+.psw {
+    color: black;
+}
